@@ -1,10 +1,12 @@
-##Padronização do projeto##
+Configurações para manter o código padronizado
+
+**Utilizado typescript**
 
 Ferramentas utilizadas:
 
-EditorConfig
-ESlint
-Prettier
+- EditorConfig
+- ESlint
+- Prettier
 
 
-Template configurado com os padrões para utilização das ferramentas.
+Template configurado para utilização das ferramentas de padronização e Typescript.
